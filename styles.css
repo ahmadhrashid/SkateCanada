@@ -40,6 +40,12 @@ body {
     left: calc(50% - 31.5px);
 }
 
+#news1 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 31.5px);
+}
+
 .expand-down-light-icon1 {
     position: absolute;
     top: 0px;
@@ -116,7 +122,7 @@ body {
     height: 18px;
 }
 
-.coaches-officials {
+#coaches-officials {
     position: absolute;
     top: 0px;
     left: calc(50% - 80px);
@@ -138,7 +144,7 @@ body {
     height: 18px;
 }
 
-.shop1 {
+#shop1 {
     position: absolute;
     top: 0px;
     left: calc(50% - 29.5px);
@@ -161,6 +167,13 @@ body {
     font-size: 15px;
     color: #000;
     font-family: Inter;
+}
+
+.navibar a {
+    color: inherit;
+    /* Uses the same color as the surrounding text */
+    text-decoration: none;
+    /* Removes underline */
 }
 
 .login-child {
@@ -366,6 +379,13 @@ body {
     color: #fff;
 }
 
+.find-a-club a {
+    color: inherit;
+    /* Uses the same color as the surrounding text */
+    text-decoration: none;
+    /* Removes underline */
+}
+
 .national-team {
     position: absolute;
     top: 173px;
@@ -396,7 +416,7 @@ body {
     height: 154px;
 }
 
-.dupuis {
+.surname {
     position: absolute;
     top: 336.13px;
     left: calc(50% - 130.66px);
@@ -404,7 +424,7 @@ body {
     text-decoration: none;
 }
 
-.sara-maude {
+.name {
     position: absolute;
     top: 304.13px;
     left: calc(50% - 130.66px);
@@ -427,12 +447,6 @@ body {
     height: 435.3px;
     text-align: left;
     font-size: 40px;
-}
-
-.ruiter {
-    position: absolute;
-    top: 336.13px;
-    left: calc(50% - 130.66px);
 }
 
 .article-3 {
@@ -752,6 +766,13 @@ body {
     font-size: 20px;
     color: #000;
     font-family: 'RM Neue TRIAL';
+}
+
+.footer a {
+    color: inherit;
+    /* Uses the same color as the surrounding text */
+    text-decoration: none;
+    /* Removes underline */
 }
 
 .desktop-1 {
