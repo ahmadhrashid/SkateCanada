@@ -764,3 +764,12 @@ body {
     color: #fff;
     font-family: 'RM Neue';
 }
+
+.desktop-1-child {
+    position: absolute;
+    top: 1217.72px;
+    left: calc(50% - 720px);
+    background-color: #efefef;
+    width: 1440px;
+    height: 666.9px;
+}
