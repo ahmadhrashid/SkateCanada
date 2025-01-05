@@ -1,0 +1,766 @@
+body {
+    margin: 0;
+    line-height: normal;
+}
+
+.logo {
+    position: absolute;
+    top: 39px;
+    left: calc(50% - 652px);
+    width: 205px;
+    height: 46.5px;
+    object-fit: cover;
+}
+
+#about-us1 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 44px);
+}
+
+.expand-down-light-icon {
+    position: absolute;
+    top: 0px;
+    left: calc(50% + 23px);
+    width: 21px;
+    height: 18px;
+}
+
+.about-us {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 388.5px);
+    width: 88px;
+    height: 18px;
+}
+
+#skate1 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 31.5px);
+}
+
+.expand-down-light-icon1 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% + 10.5px);
+    width: 21px;
+    height: 18px;
+}
+
+.skate {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 268.33px);
+    width: 63px;
+    height: 18px;
+}
+
+#events1 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 35px);
+}
+
+.expand-down-light-icon2 {
+    position: absolute;
+    top: 0.08px;
+    left: calc(50% + 14px);
+    width: 21px;
+    height: 18px;
+}
+
+.events {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 173.17px);
+    width: 70px;
+    height: 18.1px;
+}
+
+.expand-down-light-icon3 {
+    position: absolute;
+    top: 0.08px;
+    left: calc(50% + 19.5px);
+    width: 21px;
+    height: 18px;
+}
+
+#athletes1 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 40.5px);
+}
+
+.athletes {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 71px);
+    width: 81px;
+    height: 18.1px;
+}
+
+.news {
+    position: absolute;
+    top: 0px;
+    left: calc(50% + 42.17px);
+    width: 63px;
+    height: 18px;
+}
+
+.expand-down-light-icon5 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% + 59px);
+    width: 21px;
+    height: 18px;
+}
+
+.coaches-officials {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 80px);
+}
+
+.coaches-and-officials {
+    position: absolute;
+    top: 0px;
+    left: calc(50% + 137.33px);
+    width: 160px;
+    height: 18px;
+}
+
+.expand-down-light-icon6 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% + 8.5px);
+    width: 21px;
+    height: 18px;
+}
+
+.shop1 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 29.5px);
+}
+
+.shop {
+    position: absolute;
+    top: 0px;
+    left: calc(50% + 329.5px);
+    width: 59px;
+    height: 18px;
+}
+
+.navibar {
+    position: absolute;
+    top: 53.25px;
+    left: calc(50% - 377.5px);
+    width: 777px;
+    height: 18.1px;
+    font-size: 15px;
+    color: #000;
+    font-family: Inter;
+}
+
+.login-child {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 46.65px);
+    border-radius: 15px;
+    background-color: #e4002b;
+    width: 93.3px;
+    height: 33.8px;
+}
+
+.login3 {
+    position: absolute;
+    top: 7.88px;
+    left: calc(50% - 18.51px);
+}
+
+.login1 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 46.65px);
+    width: 93.3px;
+    height: 33.8px;
+}
+
+.login {
+    position: absolute;
+    top: 45.36px;
+    left: calc(50% + 542.14px);
+    width: 93.3px;
+    height: 33.8px;
+    font-size: 15px;
+    font-family: 'RM Neue TRIAL';
+}
+
+.search-icon {
+    position: absolute;
+    top: 50.25px;
+    left: calc(50% + 448px);
+    width: 18px;
+    height: 19px;
+}
+
+.national-team-child {
+    position: absolute;
+    top: 440px;
+    left: calc(50% - 103px);
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+}
+
+.national-team1 {
+    position: absolute;
+    top: 79.16px;
+    left: calc(50% - 227px);
+    font-size: 70px;
+    font-weight: 500;
+    font-family: 'Ogg TRIAL';
+    color: #e4002b;
+    text-align: center;
+}
+
+.pairs-kemp-elizarov-2 {
+    position: absolute;
+    top: 207.73px;
+    left: calc(50% - 652px);
+    border-radius: 10px;
+    background-color: #efefef;
+    width: 1305px;
+    height: 612.4px;
+}
+
+.home {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 144.5px);
+    font-weight: 600;
+    color: #e4002b;
+}
+
+.athletes2 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 68.5px);
+    font-weight: 300;
+}
+
+.national-team2 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% + 25.5px);
+    font-weight: 300;
+}
+
+.expand-right-light-icon {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 92.5px);
+    width: 24px;
+    height: 24px;
+}
+
+.expand-right-light-icon1 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% + 0.5px);
+    width: 24px;
+    height: 24px;
+}
+
+.home-navindicator {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 653px);
+    width: 289px;
+    height: 24px;
+    font-size: 20px;
+}
+
+.july-1-2024 {
+    font-weight: 300;
+    font-family: 'RM Neue';
+    color: #e4002b;
+}
+
+.the-national-team {
+    font-family: 'RM Neue';
+}
+
+.the-national-team-comprises-th {
+    margin-block-start: 0;
+    margin-block-end: 15px;
+}
+
+.top-three-in {
+    line-height: 32px;
+    font-weight: 300;
+}
+
+.assigned-to-a-20242025-isu-gr {
+    margin-bottom: 0px;
+}
+
+.top-three-in-senior-singles-p {
+    margin: 0;
+    font-size: inherit;
+    padding-left: 33px;
+}
+
+.july-1-2024-container {
+    position: absolute;
+    top: 250.4px;
+    left: calc(50% - 606.21px);
+    display: inline-block;
+    width: 1213.5px;
+}
+
+.skate-canada {
+    position: absolute;
+    top: 55.16px;
+    left: calc(50% - 153px);
+    text-transform: uppercase;
+    font-weight: 300;
+    text-align: center;
+}
+
+.sc-emblem-rgb-2-icon {
+    position: absolute;
+    top: 574.4px;
+    left: calc(50% - 42.95px);
+    width: 86.9px;
+    height: 79.4px;
+    object-fit: cover;
+}
+
+.canadian-international-medal {
+    position: relative;
+}
+
+.find-a-club-child {
+    width: 55.4px;
+    position: relative;
+    max-height: 100%;
+}
+
+.find-a-club {
+    position: absolute;
+    top: 715.4px;
+    left: calc(50% - 304px);
+    border-radius: 35px;
+    background-color: #e4002b;
+    height: 62px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 21px 34px;
+    box-sizing: border-box;
+    gap: 22px;
+    font-size: 30px;
+    color: #fff;
+}
+
+.national-team {
+    position: absolute;
+    top: 173px;
+    left: calc(50% - 653px);
+    width: 1306px;
+    height: 820.1px;
+    text-align: left;
+    color: #000;
+}
+
+.article-2-child {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 157.25px);
+    border-radius: 10px 10px 0px 0px;
+    width: 315px;
+    height: 281.3px;
+    object-fit: cover;
+}
+
+.article-2-item {
+    position: absolute;
+    top: 275px;
+    left: calc(50% - 157.75px);
+    border-radius: 0px 0px 10px 10px;
+    background-color: #e4002b;
+    width: 315px;
+    height: 154px;
+}
+
+.dupuis {
+    position: absolute;
+    top: 336.13px;
+    left: calc(50% - 130.66px);
+    color: inherit;
+    text-decoration: none;
+}
+
+.sara-maude {
+    position: absolute;
+    top: 304.13px;
+    left: calc(50% - 130.66px);
+    font-size: 27px;
+}
+
+.insta-light-icon {
+    position: absolute;
+    top: 387.29px;
+    left: calc(50% + 105.75px);
+    width: 32px;
+    height: 31px;
+}
+
+.article-2 {
+    position: absolute;
+    top: 1323.41px;
+    left: calc(50% - 652.5px);
+    width: 315.5px;
+    height: 435.3px;
+    text-align: left;
+    font-size: 40px;
+}
+
+.ruiter {
+    position: absolute;
+    top: 336.13px;
+    left: calc(50% - 130.66px);
+}
+
+.article-3 {
+    position: absolute;
+    top: 1323.41px;
+    left: calc(50% - 322px);
+    width: 315.5px;
+    height: 435.3px;
+    text-align: left;
+    font-size: 40px;
+}
+
+.image-1-icon {
+    position: absolute;
+    top: 390.51px;
+    left: calc(50% + 65.87px);
+    width: 27.7px;
+    height: 24.5px;
+    object-fit: cover;
+}
+
+.article-4 {
+    position: absolute;
+    top: 1323.41px;
+    left: calc(50% + 8.5px);
+    width: 315.5px;
+    height: 435.3px;
+    text-align: left;
+    font-size: 40px;
+}
+
+.article-5 {
+    position: absolute;
+    top: 1323.41px;
+    left: calc(50% + 339px);
+    width: 315.5px;
+    height: 435.3px;
+    text-align: left;
+    font-size: 40px;
+}
+
+.desktop-1-item {
+    position: absolute;
+    top: 125.72px;
+    left: calc(50% - 722.5px);
+    border-top: 5px solid #efefef;
+    box-sizing: border-box;
+    width: 1445px;
+    height: 5px;
+}
+
+.desktop-1-inner {
+    position: absolute;
+    top: 1063.28px;
+    left: calc(50% - 722.5px);
+    border-top: 5px solid #e4002b;
+    box-sizing: border-box;
+    width: 1445px;
+    height: 5px;
+}
+
+.rectangle-div {
+    position: absolute;
+    top: 1065.78px;
+    left: calc(50% - 720px);
+    background-color: #e4002b;
+    width: 1440px;
+    height: 151.9px;
+}
+
+.line-icon {
+    position: absolute;
+    top: 1072.79px;
+    left: calc(50% - 144px);
+    width: 0px;
+    height: 133.8px;
+    object-fit: contain;
+}
+
+.desktop-1-child1 {
+    position: absolute;
+    top: 1072.79px;
+    left: calc(50% + 432px);
+    width: 0px;
+    height: 133.8px;
+    object-fit: contain;
+}
+
+.desktop-1-child2 {
+    position: absolute;
+    top: 1072.79px;
+    left: calc(50% + 144px);
+    width: 0px;
+    height: 133.8px;
+    object-fit: contain;
+}
+
+.rectangle-icon {
+    position: absolute;
+    top: 1065.78px;
+    left: calc(50% - 720px);
+    width: 288px;
+    height: 169.2px;
+}
+
+.senior-women {
+    position: absolute;
+    top: 1126.75px;
+    left: calc(50% - 670.5px);
+    text-transform: uppercase;
+    color: #000;
+}
+
+.senior-men {
+    position: absolute;
+    top: 1126.75px;
+    left: calc(50% - 362px);
+    text-transform: uppercase;
+}
+
+.senior-pairs {
+    position: absolute;
+    top: 1126.75px;
+    left: calc(50% - 79.84px);
+    text-transform: uppercase;
+}
+
+.senior-ice-dance {
+    position: absolute;
+    top: 1126.75px;
+    left: calc(50% + 177.5px);
+    text-transform: uppercase;
+}
+
+.synchronized {
+    position: absolute;
+    top: 1126.75px;
+    left: calc(50% + 482.5px);
+    text-transform: uppercase;
+}
+
+.footer-child {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 720px);
+    background-color: #efefef;
+    width: 1440px;
+    height: 626.6px;
+}
+
+.sc-bi-rgb-2-icon {
+    position: absolute;
+    top: 55.13px;
+    left: calc(50% - 652.5px);
+    width: 325.5px;
+    height: 73.8px;
+    object-fit: cover;
+}
+
+.about {
+    position: absolute;
+    top: 92.05px;
+    left: calc(50% - 227.5px);
+    font-size: 25px;
+}
+
+.skate2 {
+    position: absolute;
+    top: 92.05px;
+    left: calc(50% + 67.67px);
+    font-size: 25px;
+}
+
+.events2 {
+    position: absolute;
+    top: 391.95px;
+    left: calc(50% + 67.67px);
+    font-size: 25px;
+}
+
+.news2 {
+    position: absolute;
+    top: 92.05px;
+    left: calc(50% + 398.85px);
+    font-size: 25px;
+}
+
+.athletes3 {
+    position: absolute;
+    top: 240.05px;
+    left: calc(50% + 398.85px);
+    font-size: 25px;
+}
+
+.leadership {
+    margin: 0 auto;
+    max-width: 250px;
+}
+
+.leadership-our-history-container {
+    position: absolute;
+    top: 128.44px;
+    left: calc(50% - 227.5px);
+    line-height: 37px;
+}
+
+.learn-to-skate-container {
+    position: absolute;
+    top: 128.44px;
+    left: calc(50% + 67.67px);
+    line-height: 37px;
+}
+
+.event-schedule-results-container {
+    position: absolute;
+    top: 428.34px;
+    left: calc(50% + 67.67px);
+    line-height: 37px;
+}
+
+.latest-news-media-container {
+    position: absolute;
+    top: 128.44px;
+    left: calc(50% + 398.85px);
+    line-height: 37px;
+}
+
+.national-team-nextgen-container {
+    position: absolute;
+    top: 276.44px;
+    left: calc(50% + 398.85px);
+    line-height: 37px;
+}
+
+.shop2 {
+    position: absolute;
+    top: 537.77px;
+    left: calc(50% + 351.09px);
+    font-size: 25px;
+    text-decoration: underline;
+    line-height: 37px;
+}
+
+.our-coaches-our-container {
+    position: absolute;
+    top: 502.34px;
+    left: calc(50% - 229.14px);
+    line-height: 37px;
+}
+
+.st-laurent-blvd-box {
+    margin: 0;
+}
+
+.infoskatecanadaca1 {
+    text-decoration: underline;
+}
+
+.infoskatecanadaca {
+    color: inherit;
+}
+
+.st-laurent-blvd-box-container {
+    top: 167.44px;
+    left: 80px;
+    width: 255px;
+    height: 288px;
+    position: absolute;
+    font-size: 20px;
+    font-family: 'RM Neue TRIAL';
+    line-height: 1.3;
+    color: #222;
+}
+
+.insta-light-icon4 {
+    position: absolute;
+    top: 535.77px;
+    left: calc(50% + 566.5px);
+    width: 38px;
+    height: 38px;
+}
+
+.image-1-icon1 {
+    position: absolute;
+    top: 539.77px;
+    left: calc(50% + 512.5px);
+    width: 33px;
+    height: 30px;
+    object-fit: cover;
+}
+
+.image-5-icon {
+    position: absolute;
+    top: 539.77px;
+    left: calc(50% + 448.5px);
+    width: 43px;
+    height: 31px;
+    object-fit: cover;
+}
+
+.image-6-icon {
+    position: absolute;
+    top: 532.77px;
+    left: calc(50% + 619.5px);
+    width: 43px;
+    height: 44px;
+    object-fit: cover;
+}
+
+.footer {
+    position: absolute;
+    top: 1914.07px;
+    left: calc(50% - 719.34px);
+    width: 1440px;
+    height: 626.6px;
+    text-align: left;
+    font-size: 20px;
+    color: #000;
+    font-family: 'RM Neue TRIAL';
+}
+
+.desktop-1 {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 2541px;
+    text-align: center;
+    font-size: 25px;
+    color: #fff;
+    font-family: 'RM Neue';
+}
