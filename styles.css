@@ -558,6 +558,7 @@ body {
     left: calc(50% - 670.5px);
     text-transform: uppercase;
     color: #000;
+
 }
 
 .senior-men {
@@ -565,6 +566,12 @@ body {
     top: 1126.75px;
     left: calc(50% - 362px);
     text-transform: uppercase;
+
+}
+
+.senior-men a {
+    color: inherit;
+    text-decoration: none;
 }
 
 .senior-pairs {
@@ -574,6 +581,11 @@ body {
     text-transform: uppercase;
 }
 
+.senior-pairs a {
+    color: inherit;
+    text-decoration: none;
+}
+
 .senior-ice-dance {
     position: absolute;
     top: 1126.75px;
@@ -581,11 +593,21 @@ body {
     text-transform: uppercase;
 }
 
+.senior-ice-dance a {
+    color: inherit;
+    text-decoration: none;
+}
+
 .synchronized {
     position: absolute;
     top: 1126.75px;
     left: calc(50% + 482.5px);
     text-transform: uppercase;
+}
+
+.synchronized a {
+    color: inherit;
+    text-decoration: none;
 }
 
 .footer-child {
